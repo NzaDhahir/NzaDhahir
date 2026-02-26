@@ -1,9 +1,20 @@
-## Hi there 👋
+## Hey there, Nza here.👋 (IFYKYK)
 
----
-## Skills
-(https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+# MEEEEE
+- A tech nerd 
+- loves coding 
+- loves memes
+- autistic (either you'll catch me locked in or doing 'tism stuff)
+
+# Work
+
+- Created and sold servers/scripts on Fiverr.
+- Distributor of 2 juvenile products. 
+- Create apps here and there (i suck at it)
+
+
+
 
 <!--
 **NzaDhahir/NzaDhahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
